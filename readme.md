@@ -3,11 +3,11 @@
 
 <div align="center">
   <a href="http://github.com/oddvalue">
-    <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=oddvalue&theme=radical&show_icons=true&hide_border=true&count_private=true">
-    <img title="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=oddvalue&theme=radical&hide_border=true">
+    <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=oddvalue&theme=radical&show_icons=true&hide_border=true&count_private=true" style="width: 30em;">
+    <img title="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=oddvalue&theme=radical&hide_border=true" style="width: 30em;">
   </a>
 </div>
 
 <div align="center">
-  <img title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddvalue&theme=radical&show_icons=true&hide_border=true&layout=compact">
+  <img title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oddvalue&theme=radical&show_icons=true&hide_border=true&layout=compact" style="width: 30em;">
 </div>
